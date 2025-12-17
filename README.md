@@ -1,4 +1,4 @@
-## Hi 👋, I'm Ravindra Singh
+
 
 <!--
 **SinghRavindr/SinghRavindr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">
+  Hi 👋, I'm Ravindra Singh
+</h1>
 
-<p align="center">
+
+<h3 align="center">
   A Computer Science Student  <br>
   NSUT, New Delhi
-</p>
+</h3>
 
 <hr>
 
