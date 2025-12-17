@@ -38,7 +38,7 @@ Web Development and Machine Learning.
 
 <hr>
 
-<hr>
+
 
 
 <h2>📫 Contact</h2>
