@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">
-  A Computer Science Student  <br>
+  Computer Science Student  <br>
   NSUT, New Delhi
 </h3>
 
