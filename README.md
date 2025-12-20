@@ -3,7 +3,7 @@
 <p align="center">
 Computer Science Undergraduate(2024-2028) · NSUT, New Delhi  
   <br/>
-Full-Stack Development · Systems-aware Engineering
+Full-Stack Developer
 </p>
 
 ---
