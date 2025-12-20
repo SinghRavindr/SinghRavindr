@@ -1,55 +1,59 @@
-
-
-<!--
-**SinghRavindr/SinghRavindr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">
-  Hi 👋, I'm Ravindra Singh
-</h1>
-
-
-<h3 align="center">
-  Computer Science Student  <br>
-  NSUT, New Delhi
-</h3>
-
-<hr>
-
-<h2>👨‍💻 About Me</h2>
-<p>
-I am a 2nd year B.Tech Computer Science student with an interest in
-Web Development ,data structures and System Design.
-<br><br>
-Currently focusing on building strong fundamentals in
-Web Development and Machine Learning.
-</p>
-
-<hr>
-
-
-
-
-<h2>📫 Contact</h2>
-<p>
-  Email: ravindra.singh.ug24@nsut.ac.in <br>
-  LinkedIn: https://www.linkedin.com/in/ravindra-singh-31041332b/ <br>
-  GitHub: https://github.com/SinghRavindr
-</p>
-
-<hr>
+<h1 align="center">Ravindra Singh</h1>
 
 <p align="center">
-  <em>Learning. Building. Improving.</em>
+Computer Science Undergraduate · NSUT, New Delhi  
+Full-Stack Development · Systems-aware Engineering
+</p>
+
+---
+
+## Overview
+
+I am a B.Tech Computer Science student at NSUT focused on building complete, end-to-end software systems.
+
+My interest is not limited to UI work. I focus on how frontend, backend, data, and infrastructure interact, and I actively work on strengthening core computer science foundations alongside application development.
+
+---
+
+## Technical Skillset
+
+**Programming Languages**
+- C++
+- C
+- Python
+
+**Full-Stack Development**
+- Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js
+- Backend: Node.js, REST APIs
+- Databases: SQL / NoSQL fundamentals
+- Authentication, data flow, and API integration
+
+
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Vercel, Netlify
+- Linux command-line basics
+
+---
+
+## Current Focus
+
+- Building full-stack projects with clean separation of frontend and backend
+- Strengthening DSA using C++
+- Learning scalable application structure and real deployment workflows
+
+
+---
+
+## Contact
+
+- Email: ravindra.singh.ug24@nsut.ac.in  
+- LinkedIn: https://www.linkedin.com/in/ravindra-singh-31041332b  
+- GitHub: https://github.com/SinghRavindr  
+
+---
+
+<p align="center">
+Clarity. Fundamentals. Execution.
 </p>
