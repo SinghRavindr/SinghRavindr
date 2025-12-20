@@ -1,7 +1,7 @@
-<h1 align="center">Ravindra Singh</h1>
+<h1 align="center">Hi 👋, I'm Ravindra Singh</h1>
 
 <p align="center">
-Computer Science Undergraduate · NSUT, New Delhi  
+Computer Science Undergraduate(2024-2028) · NSUT, New Delhi  
   <br/>
 Full-Stack Development · Systems-aware Engineering
 </p>
