@@ -2,6 +2,7 @@
 
 <p align="center">
 Computer Science Undergraduate · NSUT, New Delhi  
+  <br/>
 Full-Stack Development · Systems-aware Engineering
 </p>
 
