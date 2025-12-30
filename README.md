@@ -34,7 +34,6 @@ My interest is not limited to UI work. I focus on how frontend, backend, data, a
 - Git & GitHub
 - VS Code
 - Vercel, Netlify
-- Linux command-line basics
 
 ---
 
